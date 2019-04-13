@@ -11,7 +11,7 @@ public class UsaProduto {
 				
 		System.out.println(A.codigo+" "+A.nome+" "+A.quantidade+" "+A.preco);
 		
-		A.codigo = 10;
+		A.codigo = 20;
 		A.nome = "camiseta";
 		A.quantidade = 5;
 		A.preco = 30.0;
