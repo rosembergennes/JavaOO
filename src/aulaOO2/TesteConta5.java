@@ -8,10 +8,11 @@ public class TesteConta5 {
 		Conta c2 = new Conta();
 		c2.nome ="Joao";
 		
-		if (c1 == c2)
+		if (c1 == c2) {
 			System.out.println("as contas sao iguais");
 	}else{
 		System.out.println("as contas nao sao iguais");
+	}
 	}
 		
 
